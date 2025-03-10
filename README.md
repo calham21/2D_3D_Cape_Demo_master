@@ -17,3 +17,4 @@ https://github.com/user-attachments/assets/930605e5-8539-4a52-91af-f092801c3ddd
 
 # TO DO
 - Have a way to manipulate the cape during runtime (eg add an offset to the bottom of the cape when moving)
+- Maybe have cape wave consistant with looking direction?
