@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://bfu3f4cybwpk"]
+
+[ext_resource type="Script" path="res://cape.gd" id="1_kn7mv"]
+
+[node name="Cape" type="Node2D"]
+script = ExtResource("1_kn7mv")
+point_gap = 2.0
+cape_length = 6.5
+wave_amplitude = 1.0
+render_points = false
+render_outline = false
