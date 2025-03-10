@@ -10,7 +10,7 @@ the Demo or Cape scene to see your changes.
 # Info
 The Cape is a 2D object that is added as a child of a SubViewport in a 3D scene. The cape itself has 
 a couple variables to adjust the cape, including the amount of points, cape size and rendering.
-Although this is showcasing how to do this in 3D, it is perfectly capable to apply this in 2D project.
+Although this is showcasing how to do this in 3D, it works fine in a 2D setting as well.
 
 # Showcase Video
 https://github.com/user-attachments/assets/930605e5-8539-4a52-91af-f092801c3ddd
