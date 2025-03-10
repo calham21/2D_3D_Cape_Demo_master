@@ -2,7 +2,7 @@
 Demo project for Godot 4.3 showcasing a 2D physics cape in 3D.
 
 # Disclaimer
-Repo is currently unfinished! Will complete soon.
+Repo and project is currently unfinished! Will complete soon.
 The script to create the cape is a @tool, but there a few issues with it. If you change any variables for 
 the cape within the editor you are bound it get some errors. After adjusting the variables just close and re-open
 the Demo or Cape scene to see your changes.
