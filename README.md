@@ -15,3 +15,5 @@ Although this is showcasing how to do this in 3D, it is perfectly capable to app
 # Showcase Video
 https://github.com/user-attachments/assets/930605e5-8539-4a52-91af-f092801c3ddd
 
+# TO DO
+- Have a way to manipulate the cape during runtime (eg add an offset to the bottom of the cape when moving)
